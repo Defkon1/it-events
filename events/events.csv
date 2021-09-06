@@ -1,6 +1,6 @@
 date,name,description,link,location,tags
-2021-09-01T14:00:00,Event 1,Description 1,https://www.google.it,online,"dev,c#"
-2021-09-07T08:00:00,Event 2,Description 2,https://dev.marche.it,Ancona,"test,angular"
-2021-09-15T10:00:00,Event 3,Description 3,https://www.google.it,online,"react,design systems"
-2021-10-15T18:00:00,Event 4,,https://dev.marche.it,online,
-2021-10-15T20:00:00,Event 5,,,online,
+2021-09-01T14:00:00Z,Event 1,Description 1,https://www.google.it,online,"dev,c#"
+2021-09-07T08:00:00Z,Event 2,Description 2,https://dev.marche.it,Ancona,"test,angular"
+2021-09-15T10:00:00Z,Event 3,Description 3,https://www.google.it,online,"react,design systems"
+2021-10-15T18:00:00Z,Event 4,,https://dev.marche.it,online,
+2021-10-15T20:00:00Z,Event 5,,,online,
