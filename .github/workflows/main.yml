@@ -1,5 +1,4 @@
-name: Webhook Action
-uses: joelwmale/webhook-action@2.1.0
+name: refresh site
 on:
   push:
     branches:
@@ -7,5 +6,12 @@ on:
   pull_request:
     branches:
       - main
-with:
-  url: ${{ secrets.WEBHOOK_URL }}
+      
+jobs:
+  refresh-site-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Webhook Action
+        uses: joelwmale/webhook-action@2.1.0
+        with:
+          url: ${{ secrets.WEBHOOK_URL }}
