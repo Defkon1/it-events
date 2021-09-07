@@ -1,4 +1,11 @@
 name: Webhook Action
 uses: joelwmale/webhook-action@2.1.0
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 with:
   url: ${{ secrets.WEBHOOK_URL }}
