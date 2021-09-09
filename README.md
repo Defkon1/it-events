@@ -24,7 +24,9 @@ Poche semplici regole:
 - gli "eventi" che sono in realtà puramente corsi/workshop di formazione a pagamento verranno scartati
 - in generale tutte le segnalazioni possono essere scartate a insindacabile giudizio del mantainer
 
-Quest'anno il repository partecipa a [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)!
+# Hacktoberfest 2021
+
+Quest'anno il repository partecipa all'[Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
 Ciò significa anche che le pull request di bassa qualità fatte apposta per livellare su Hacktoberfest (es. "aggiunto spazio nel titolo") verranno respinte e l'utente verrà segnalato allo staff Hacktoberfest per cattiva condotta.
 
