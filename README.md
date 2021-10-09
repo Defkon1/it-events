@@ -15,7 +15,7 @@ Poche semplici regole:
 - l'evento può essere sia gratuito che a pagamento
 - se l'evento non è in lingua italiana, va indicato nella descrizione dell'evento
 - rispettare il formato del file CSV, che vuole (separati da virgola)
-  - data e ora di inizio evento (in caso di evento su più giorni inserire più eventi singolo giorno)
+  - data e ora di inizio evento (in caso di evento su più giorni inserire più eventi singolo giorno) nel formato "yyyy-MM-dd HH:mm:ss" (es. 2021-11-23 17:30:00)
   - nome dell'evento
   - breve descrizione dell'evento (100 caratteri massimo)
   - luogo dell'evento (Scrivere semplicemente "Online" per gli eventi su Youtube/Zoom/Twitch/...)
