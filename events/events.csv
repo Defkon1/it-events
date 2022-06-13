@@ -1,5 +1,5 @@
 date,name,description,link,location,tags
-2022-06-10 09:00:00,"SQL Start! 2022,,https://www.sqlstart.it/2022,Online,"sql,powerbi,sql server,azure,t-sql"
+2022-06-10 09:00:00,"SQL Start! 2022",,https://www.sqlstart.it/2022,Online,"sql,powerbi,sql server,azure,t-sql"
 2022-06-13 19:00:00,"Feature flag in Angular","Angular Roma Meetup Giugno 2022",https://community.codemotion.com/angular-roma/meetups/roma-meetup-aperitech-di-giugno-2022-di-angular-roma,Online,"angular"
 2022-06-13 21:00:00,"Flutter 3: un framework multipiattaforma!","Tutte le novità di Flutter 3",https://www.thecmmbay.com/eventi/flutter-3-un-framework-multipiattaforma-8kxevq97or3,Online,"flutter,google"
 2022-04-14 19:00:00,"Confronto tra Go e Rust","Rust Roma Meetup Giugno 2022",https://community.codemotion.com/rust-roma/meetups/roma-meetup-aperitech-di-giugno-2022-di-rust-roma,Online,"go,rust"
