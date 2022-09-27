@@ -24,7 +24,7 @@ Poche semplici regole:
 - gli "eventi" che sono in realtà puramente corsi/workshop di formazione a pagamento verranno scartati
 - in generale tutte le segnalazioni possono essere scartate a insindacabile giudizio del mantainer
 
-# Hacktoberfest 2021
+# Hacktoberfest 2022
 
 Quest'anno il repository partecipa all'[Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
