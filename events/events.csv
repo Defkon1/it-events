@@ -13,6 +13,7 @@ date,name,description,link,location,tags
 2023-10-12 19:00:00,"Low Code / No Code",,https://dev.marche.it,Ancona,"low code,no code"
 2023-10-13 12:00:00,"devsecopsday 2023",,https://community.codemotion.com/grusp/meetups/devsecopsday-2023,Bologna,"devops,security,cybersecurity"
 2023-10-14 09:00:00,"Katurday - Cin cin...que!","Impara l'arte e mettila in pratica: esercitiamoci insieme sviluppando kata",https://www.meetup.com/xpugbg/events/296374462,"Seriate (BG)","kata"
+2023-10-14 09:00:00,"Azure Day Torino 2023",,https://www.azureday.it/,Torino,"dotnet,azure,cloud"
 2023-10-16 19:00:00,"Blockchain Calls Devs - AlgoKit: nel cuore di Algorand",,https://community.codemotion.com/codemotion-italy/meetups/blockchain-calls-devs---algokit-nel-cuore-di-algorand,Online,"blockchain,web3,algorand,algokit"
 2023-10-18 18:45:00,"Minicorso Astro.js: da Zero ad Astronauta del Web - Fondamenti",,https://thecmmbay.com/eventi/minicorso-astro-js-da-zero-ad-astronauta-del-web-fondamenti-1mleg6vjq4w,Online,"astro.js,javascript,typescript"
 2023-10-19 18:45:00,"Eleva il tuo codice: guida all'analisi statica con SonarQube",,https://thecmmbay.com/eventi/eleva-il-tuo-codice-guida-all-analisi-statica-con-sonarqube-z217w2676ok,Online,"sonarqube"
@@ -21,3 +22,5 @@ date,name,description,link,location,tags
 2023-10-25 09:00:00,"Codemotion Milan 2023",,https://conferences.codemotion.com/milan2023-live/it/home/,Milano,"cloud,software architecture,cybersecurity,microservices,web3,design,ux,ui,deep learning,quantum,ar,vr,docker,kubernetes,testing"
 2023-10-25 18:45:00,"Minicorso Astro.js: da Zero ad Astronauta del Web - Concetti avanzati",,https://thecmmbay.com/eventi/minicorso-astro-js-da-zero-ad-astronauta-del-web-concetti-avanzati-32o7y6repdv,Online,"astro.js,javascript,typescript"
 2023-10-27 09:00:00,"reactjsday 2023",,https://community.codemotion.com/grusp/meetups/reactjsday-2023,Verona,"react,reactjs"
+2023-11-13 09:30:00,"Cloud Day 2023",,https://www.ugidotnet.org/e/3177/Cloud-Day-2023,Milano,"container,iot,devops,serverless"
+2023-11-24 09:00:00,"A.I. Day 2023",,https://dotnetcode.it/eventi,Roma,"intelligenza artificiale"
